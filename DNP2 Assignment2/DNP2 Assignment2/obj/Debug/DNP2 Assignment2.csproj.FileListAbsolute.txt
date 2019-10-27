@@ -1,0 +1,7 @@
+C:\Users\zahar\source\repos\DNP2-Assignment2\DNP2 Assignment2\DNP2 Assignment2\bin\Debug\DNP2 Assignment2.exe.config
+C:\Users\zahar\source\repos\DNP2-Assignment2\DNP2 Assignment2\DNP2 Assignment2\bin\Debug\DNP2 Assignment2.exe
+C:\Users\zahar\source\repos\DNP2-Assignment2\DNP2 Assignment2\DNP2 Assignment2\bin\Debug\DNP2 Assignment2.pdb
+C:\Users\zahar\source\repos\DNP2-Assignment2\DNP2 Assignment2\DNP2 Assignment2\obj\Debug\DNP2 Assignment2.csprojAssemblyReference.cache
+C:\Users\zahar\source\repos\DNP2-Assignment2\DNP2 Assignment2\DNP2 Assignment2\obj\Debug\DNP2 Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\zahar\source\repos\DNP2-Assignment2\DNP2 Assignment2\DNP2 Assignment2\obj\Debug\DNP2 Assignment2.exe
+C:\Users\zahar\source\repos\DNP2-Assignment2\DNP2 Assignment2\DNP2 Assignment2\obj\Debug\DNP2 Assignment2.pdb
